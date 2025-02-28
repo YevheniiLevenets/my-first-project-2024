@@ -1,3 +1,18 @@
 body {
   background-color: rgb(226, 110, 43);
+  font-family: 'Tangerine', cursive;
+}
+a {
+  text-decoration: none;
+  color: green;
+  background-color: yellowgreen;
+}
+p {
+  color: white;
+}
+ul {
+  list-style-type: none;
+}
+.text {
+  color: brown;
 }
